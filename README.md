@@ -1,24 +1,22 @@
 <h1 align="center">Hi, Welcome ✨</h1>
 <h3 align="center">I just did what I thought I could do</h3>
 
-> [p](/skill)
-
-<bdo dir="rtl">This text will be written from right to left</bdo>
 <h3>This is me:</h3>
 <a>i'm a</a><br>
-<a href="https://git.io/typing-svg">
+<a>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=1000&pause=1000&color=FFFFFF&random=true&width=435&lines=Drnk;Web+Developer;Mobile+Developer;UI%2FUX+Designer" alt="Drnk Typing SVG" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drnk-28&label=Profile%20views&color=0e75b6&style=flat" alt="drnk-28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drnk-28&label=Profile%20views&color=0e75b6&style=flat" alt="drnk-28" /> </p>
 <ul>
 <li> 📫 Gmail: mailme.dk28@gmail.com</li>
 <li> ⚡ Quote: Samurai and swords will not be sharp if they are not forged hard </li>
 </ul>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://discord.com/users/626413361185292321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/626413361185292321" height="30" width="40" /></a>
 </p>
-<h3 id="skill">Skill</h3>
-<p align="center"><img alt="Drnk-28" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Drnk-28&langs_count=8&layout=compact&theme=react&border_color=1F6FEA&bg_color=0D1117&title_color=1F6FEA9&icon_color=1F6FEA" /></p>
+
+<h3>Repository skill</h3>
+<p align="left"><img alt="Drnk-28" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Drnk-28&langs_count=8&layout=compact&theme=react&border_color=1F6FEA&bg_color=0D1117&title_color=1F6FEA9&icon_color=1F6FEA" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
