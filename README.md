@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=1000&pause=1000&color=FFFFFF&random=true&width=435&lines=Drnk;Web+Developer;Mobile+Developer;UI%2FUX+Designer" alt="Drnk Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drnk-28&label=Profile%20views&color=0e75b6&style=flat" alt="drnk-28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drnk-28" alt="drnk-28" /></a> </p>
-
-- 🔭 I’m currently working on **kuki (discord bot)**
 
 - 📫 How to reach me **mailme.dk28@gmail.com**
 
