@@ -29,7 +29,7 @@
   <img alt="Drnk-28" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Drnk-28&langs_count=8&layout=compact&theme=react&border_color=5865f2&bg_color=0D1117&title_color=5865f2&icon_color=5865f2" />
   <br>
   <br>
- Tags
+ Tags 
 <br>
   <br>
 <img src="https://komarev.com/ghpvc/?username=drnk-28&label=Profile%20views&color=5865f2&style=flat" alt="drnk-28" />
